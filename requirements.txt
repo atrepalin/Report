@@ -1,0 +1,9 @@
+ipykernel
+numpy
+scipy
+scikit-image
+tf_keras
+tensorflow_probability
+deepxde
+matplotlib
+tensorflow
